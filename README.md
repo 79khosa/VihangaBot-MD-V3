@@ -71,7 +71,7 @@
 
 
 ## Owner:
-* [`Vihanga-YT`](https://github.com/vihangayt0)
+* [`Vihanga-YT`](https://github.com/nazik0)
 
 ## Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
